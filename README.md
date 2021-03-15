@@ -1,2 +1,4 @@
 # GIS-Portfolio
-Portfolio displaying various GIS projects
+Examples of work done in GIS
+
+#Hamburg
